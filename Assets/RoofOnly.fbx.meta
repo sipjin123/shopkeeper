@@ -1,63 +1,42 @@
 fileFormatVersion: 2
-guid: 7c074972c830d4740b4343dc5b1c7ba1
+guid: 56ed7effe9f86a14e81332c121405c9a
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: Cube.012
-    100002: Cube.014
-    100004: Cube.028
-    100006: Cube.047
-    100008: Cube.119
-    100010: Cube.129
-    100012: Cube.315
-    100014: Cube.316
-    100016: Cylinder.000
-    100018: //RootNode
-    400000: Cube.012
-    400002: Cube.014
-    400004: Cube.028
-    400006: Cube.047
-    400008: Cube.119
-    400010: Cube.129
-    400012: Cube.315
-    400014: Cube.316
-    400016: Cylinder.000
-    400018: //RootNode
-    2100000: TMGS
-    2100002: lambert6
-    2300000: Cube.012
-    2300002: Cube.014
-    2300004: Cube.028
-    2300006: Cube.047
-    2300008: Cube.119
-    2300010: Cube.129
-    2300012: Cube.315
-    2300014: Cube.316
-    2300016: Cylinder.000
-    3300000: Cube.012
-    3300002: Cube.014
-    3300004: Cube.028
-    3300006: Cube.047
-    3300008: Cube.119
-    3300010: Cube.129
-    3300012: Cube.315
-    3300014: Cube.316
-    3300016: Cylinder.000
-    4300000: Cube.316
-    4300002: Cube.315
-    4300004: Cube.028
-    4300006: Cube.014
-    4300008: Cube.012
-    4300010: Cube.047
-    4300012: Cube.129
-    4300014: Cube.119
-    4300016: Cylinder.000
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: lambert6
-    second: {fileID: 2100000, guid: 7cd50a13d307eba4da55473910f62ef1, type: 2}
+    100000: Cube.761
+    100002: Cube.771
+    100004: Plane.021
+    100006: Plane.026
+    100008: Plane.033
+    100010: Plane.048
+    100012: //RootNode
+    400000: Cube.761
+    400002: Cube.771
+    400004: Plane.021
+    400006: Plane.026
+    400008: Plane.033
+    400010: Plane.048
+    400012: //RootNode
+    2100000: lambert2
+    2300000: Cube.761
+    2300002: Cube.771
+    2300004: Plane.021
+    2300006: Plane.026
+    2300008: Plane.033
+    2300010: Plane.048
+    3300000: Cube.761
+    3300002: Cube.771
+    3300004: Plane.021
+    3300006: Plane.026
+    3300008: Plane.033
+    3300010: Plane.048
+    4300000: Plane.048
+    4300002: Cube.771
+    4300004: Cube.761
+    4300006: Plane.033
+    4300008: Plane.026
+    4300010: Plane.021
+  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
@@ -88,7 +67,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 100
+    globalScale: 50
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1

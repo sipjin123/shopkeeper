@@ -1,63 +1,62 @@
 fileFormatVersion: 2
-guid: 7c074972c830d4740b4343dc5b1c7ba1
+guid: 57747634e0d083c44b364bf0c16c4beb
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: Cube.012
-    100002: Cube.014
-    100004: Cube.028
-    100006: Cube.047
-    100008: Cube.119
-    100010: Cube.129
-    100012: Cube.315
-    100014: Cube.316
-    100016: Cylinder.000
+    100000: Cube.041
+    100002: Cube.1079
+    100004: Cube.1361
+    100006: Cube.1518
+    100008: Cube.1523
+    100010: Cube.269
+    100012: Cube.333
+    100014: Cylinder.062
+    100016: Cylinder.064
     100018: //RootNode
-    400000: Cube.012
-    400002: Cube.014
-    400004: Cube.028
-    400006: Cube.047
-    400008: Cube.119
-    400010: Cube.129
-    400012: Cube.315
-    400014: Cube.316
-    400016: Cylinder.000
+    400000: Cube.041
+    400002: Cube.1079
+    400004: Cube.1361
+    400006: Cube.1518
+    400008: Cube.1523
+    400010: Cube.269
+    400012: Cube.333
+    400014: Cylinder.062
+    400016: Cylinder.064
     400018: //RootNode
-    2100000: TMGS
-    2100002: lambert6
-    2300000: Cube.012
-    2300002: Cube.014
-    2300004: Cube.028
-    2300006: Cube.047
-    2300008: Cube.119
-    2300010: Cube.129
-    2300012: Cube.315
-    2300014: Cube.316
-    2300016: Cylinder.000
-    3300000: Cube.012
-    3300002: Cube.014
-    3300004: Cube.028
-    3300006: Cube.047
-    3300008: Cube.119
-    3300010: Cube.129
-    3300012: Cube.315
-    3300014: Cube.316
-    3300016: Cylinder.000
-    4300000: Cube.316
-    4300002: Cube.315
-    4300004: Cube.028
-    4300006: Cube.014
-    4300008: Cube.012
-    4300010: Cube.047
-    4300012: Cube.129
-    4300014: Cube.119
-    4300016: Cylinder.000
+    2100000: TableSetText
+    2300000: Cube.041
+    2300002: Cube.1079
+    2300004: Cube.1361
+    2300006: Cube.1518
+    2300008: Cube.1523
+    2300010: Cube.269
+    2300012: Cube.333
+    2300014: Cylinder.062
+    2300016: Cylinder.064
+    3300000: Cube.041
+    3300002: Cube.1079
+    3300004: Cube.1361
+    3300006: Cube.1518
+    3300008: Cube.1523
+    3300010: Cube.269
+    3300012: Cube.333
+    3300014: Cylinder.062
+    3300016: Cylinder.064
+    4300000: Cube.1523
+    4300002: Cube.1518
+    4300004: Cube.1361
+    4300006: Cylinder.064
+    4300008: Cube.1079
+    4300010: Cylinder.062
+    4300012: Cube.333
+    4300014: Cube.269
+    4300016: Cube.041
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: lambert6
-    second: {fileID: 2100000, guid: 7cd50a13d307eba4da55473910f62ef1, type: 2}
+      name: TableSetText
+    second: {fileID: 2100000, guid: 5e77098f76c88794281636c907e24f0d, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -88,7 +87,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 100
+    globalScale: 50
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
