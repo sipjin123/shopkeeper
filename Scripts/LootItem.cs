@@ -8,6 +8,9 @@ public class LootItem : ScriptableObject
     private LootType _LootType;
 
     public string ItemName;
+
+    public int Rarity;
+
     public LootType LootType
     {
         get { return _LootType; }
