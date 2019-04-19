@@ -10,6 +10,12 @@ ModelImporter:
     100008: Plane.033
     100010: Plane.048
     100012: //RootNode
+    100014: lalala:Cube_761
+    100016: lalala:Cube_771
+    100018: lalala:Plane_021
+    100020: lalala:Plane_026
+    100022: lalala:Plane_033
+    100024: lalala:Plane_048
     400000: Cube.761
     400002: Cube.771
     400004: Plane.021
@@ -17,25 +23,50 @@ ModelImporter:
     400008: Plane.033
     400010: Plane.048
     400012: //RootNode
+    400014: lalala:Cube_761
+    400016: lalala:Cube_771
+    400018: lalala:Plane_021
+    400020: lalala:Plane_026
+    400022: lalala:Plane_033
+    400024: lalala:Plane_048
     2100000: lambert2
+    2100002: lalala_lambert3
     2300000: Cube.761
     2300002: Cube.771
     2300004: Plane.021
     2300006: Plane.026
     2300008: Plane.033
     2300010: Plane.048
+    2300012: lalala:Cube_761
+    2300014: lalala:Cube_771
+    2300016: lalala:Plane_021
+    2300018: lalala:Plane_026
+    2300020: lalala:Plane_033
+    2300022: lalala:Plane_048
     3300000: Cube.761
     3300002: Cube.771
     3300004: Plane.021
     3300006: Plane.026
     3300008: Plane.033
     3300010: Plane.048
+    3300012: lalala:Cube_761
+    3300014: lalala:Cube_771
+    3300016: lalala:Plane_021
+    3300018: lalala:Plane_026
+    3300020: lalala:Plane_033
+    3300022: lalala:Plane_048
     4300000: Plane.048
     4300002: Cube.771
     4300004: Cube.761
     4300006: Plane.033
     4300008: Plane.026
     4300010: Plane.021
+    4300012: lalala:Plane_048
+    4300014: lalala:Cube_771
+    4300016: lalala:Cube_761
+    4300018: lalala:Plane_033
+    4300020: lalala:Plane_026
+    4300022: lalala:Plane_021
   externalObjects: {}
   materials:
     importMaterials: 1
