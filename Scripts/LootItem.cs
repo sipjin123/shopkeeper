@@ -16,4 +16,9 @@ public class LootItem : ScriptableObject
         get { return _LootType; }
     }
 
+    [SerializeField]
+    private List<LootItem> _RequiredCombination;
+    public List<LootItem> RequiredCombination { get { return _RequiredCombination; } }
+
+
 }

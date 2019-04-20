@@ -5,7 +5,7 @@ using UnityEngine;
 public class LocationManager : MonoBehaviour
 {
 
-    [SerializeField] private Transform _ShopSellLoc, _ShopInventoryLoc, _ShopBuyLoc;
+    [SerializeField] public Transform ShopSellLoc, ShopInventoryLoc, ShopBuyLoc, AIExitLocation;
 
     public void Awake()
     {

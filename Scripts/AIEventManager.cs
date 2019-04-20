@@ -6,7 +6,10 @@ using UnityEngine.Events;
 public static class AIEventManager 
 {
     static AIMovementManager _AIMovemanager;
-    public static UnityEvent QuieryShopItem = new UnityEvent();
+    public static UnityEvent<List<LootItem>> QuieryShopItem = new LootItemEvent();
+
+    public static UnityEvent<AICustomer> RegisterCustomer = new CustomerEvent();
+    public static UnityEvent<AICustomer> RemoveCustomer = new CustomerEvent();
 
     public static void Init(AIMovementManager aiMngr)
     {

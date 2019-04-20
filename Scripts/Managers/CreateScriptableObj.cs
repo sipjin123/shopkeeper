@@ -30,18 +30,6 @@ public class CreateScriptableObj {
 
         Selection.activeObject = asset;
     }
-    [MenuItem("Assets/Create/My CombinableItem")]
-    public static void CreatCombinableItem()
-    {
-        CombinableItem asset = ScriptableObject.CreateInstance<CombinableItem>();
-
-        AssetDatabase.CreateAsset(asset, "Assets/CombinableItem.asset");
-        AssetDatabase.SaveAssets();
-
-        EditorUtility.FocusProjectWindow();
-
-        Selection.activeObject = asset;
-    }
 
     [MenuItem("Assets/Create/My PlayerInventory")]
     public static void CreatPlayerInventory()

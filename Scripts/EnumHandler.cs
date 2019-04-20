@@ -22,5 +22,6 @@ public enum BehaviorState
 {
     Arrival,
     GoSHop,
+    Order,
     Exit
 }
